@@ -17,4 +17,3 @@ code .
 ```
 
 ###### Then open it on your browser
-# css-parallax
